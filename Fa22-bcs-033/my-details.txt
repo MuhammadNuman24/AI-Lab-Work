@@ -1,0 +1,6 @@
+Roll Number: fa22-bcs-033
+Name: Muhammad Numan
+CGPA: 3.76
+Current Semester:7thA
+Program: Bs Computer Science
+University:Islamabad Vehari Campus
